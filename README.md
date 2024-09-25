@@ -197,33 +197,5 @@ Paul's contributions to the Polish film industry are documented in the [Polish F
 
 To learn more about Paul's journey and work, check out his [bio video](https://www.youtube.com/watch?v=5KIcxuWEa4E).
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-Please ensure you follow our [Code of Conduct](CODE_OF_CONDUCT.md) and read our [Contributing Guidelines](CONTRIBUTING.md) before making a submission.
-
-## Support
-
-If you encounter any issues or have questions, please file an issue on the GitHub repository. For more detailed support or custom development inquiries, you can reach out to Paul directly through his social media channels or website.
-
-## To-Do List
-
-- Improve randomization feature
-- Fully implement and enhance the Image Search feature with search query functionality
-
-Note: The Image Search feature is currently under development. Contributions to improve this feature are welcome!
-
----
 
 Enjoy using the Google Photos Loader in your ComfyUI workflows!
