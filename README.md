@@ -188,7 +188,7 @@ Paul's contributions to the Polish film industry are documented in the [Polish F
 
 ### Connect with Paul
 
-- Website: [Lazniak.com](https://lazniak.com)
+- Website: [hexart.pl](https://hexart.pl)
 - YouTube: [@Lazniak](https://www.youtube.com/@Lazniak)
 - Facebook: [PabloGFX](https://www.facebook.com/PabloGFX)
 - Twitter: [@PabloGFX](https://x.com/PabloGFX)
