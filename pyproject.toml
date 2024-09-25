@@ -1,0 +1,14 @@
+[project]
+name = "google-photos-loader"
+description = "A ComfyUI custom node that integrates Google Photos into your workflows. List albums, load images from specific albums, and search photos directly within ComfyUI. Features customizable image loading options, sorting, and efficient caching for seamless integration of your Google Photos library into AI image processing pipelines."
+version = "1.0.11"
+license = {file = "LICENSE"}
+dependencies  = ["aiohttp>=3.7.4", "google-auth-oauthlib>=0.4.1", "google-auth>=1.30.0", "Pillow>=8.0.0", "torch>=1.7.0", "termcolor>=1.1.0", "numpy>=1.19.0"]
+
+[project.urls]
+Repository = "https://github.com/lazniak/comfyui-google-photos-loader"
+
+[tool.comfy]
+PublisherId = "pablogfx"
+DisplayName = "Google Photos Loader - by PabloGFX"
+Icon = ""
