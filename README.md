@@ -2,6 +2,12 @@
 
 ![Google Photos Loader Example Workflow](Google_photo_loader_example_workflow.svg)
 
+## Tutorial
+
+Check out this video tutorial to see the Google Photos Loader for ComfyUI in action:
+
+[![Google Photos Loader for ComfyUI Tutorial](https://img.youtube.com/vi/vWg-WUrNKyE/0.jpg)](https://www.youtube.com/watch?v=vWg-WUrNKyE "Google Photos Loader for ComfyUI Tutorial")
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-370/)
 [![ComfyUI](https://img.shields.io/badge/ComfyUI-compatible-brightgreen)](https://github.com/comfyanonymous/ComfyUI)
