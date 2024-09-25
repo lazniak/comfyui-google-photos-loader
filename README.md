@@ -1,6 +1,6 @@
 # Google Photos Loader for ComfyUI
 
-![Google Photos Loader Example Workflow](Google_photo_loader_example_workflow.png)
+![Google Photos Loader Example Workflow](Google_photo_loader_example_workflow.svg)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-370/)
