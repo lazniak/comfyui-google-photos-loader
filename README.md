@@ -24,11 +24,11 @@ Check out this video tutorial to see the Google Photos Loader for ComfyUI in act
 - [Node Types](#node-types)
 - [Troubleshooting](#troubleshooting)
 - [Dependencies and Licenses](#dependencies-and-licenses)
-- [About the Creator](#about-the-creator)
 - [License](#license)
 - [Contributing](#contributing)
 - [Support](#support)
 - [To-Do List](#to-do-list)
+- [About the Creator](#about-the-creator)
 
 ## Description
 
@@ -42,7 +42,7 @@ The Google Photos Loader for ComfyUI is a custom node that allows users to seaml
 - 🛠️ Customize image loading options (size, cropping, etc.)
 - 🔄 Efficient caching mechanism for improved performance
 - 🔐 Secure login and logout functionality
-- 🧹 Cache management tools
+- 🧹 Cache management tools (in development)
 
 ## Installation
 
@@ -61,7 +61,7 @@ The Google Photos Loader for ComfyUI is a custom node that allows users to seaml
 
 To use this node, you need to set up a Google Cloud project and enable the Google Photos Library API:
 
-1. Go to the [Google Cloud Console](https://console.cloud.google.com/).
+1. Go to the [Google Cloud Console](https://console.cloud.google.com/). Watch tutorial from beginning.
 2. Create a new project or select an existing one.
 3. Enable the Google Photos Library API for your project.
 4. Create credentials (OAuth 2.0 Client ID) for a desktop application.
@@ -128,9 +128,6 @@ This project uses the following main dependencies:
 
 For full license details, please refer to the individual package repositories.
 
-## About the Creator
-
-[The "About the Creator" section remains unchanged]
 
 ## License
 
@@ -159,7 +156,6 @@ If you encounter any issues or have questions, please file an issue on the GitHu
 
 ---
 
-Enjoy using the Google Photos Loader in your ComfyUI workflows!
 ## About the Creator
 
 This ComfyUI CustomNode was created by Paul Lazniak (Paweł Łaźniak), also known as PabloGFX. Paul is a multifaceted professional with extensive experience in software development, filmmaking, VFX artistry, and entrepreneurship.
