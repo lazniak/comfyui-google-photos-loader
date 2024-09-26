@@ -1,6 +1,7 @@
 # Google Photos Loader for ComfyUI
 
 ![Google Photos Loader Example Workflow](Google_photo_loader_example_workflow.svg)
+To correctly use this workflow you need to right click on each node that has "client_secrets.json" directory file definition, and click "fix node", than it brings the directory name to the default one.
 
 ## Tutorial
 
